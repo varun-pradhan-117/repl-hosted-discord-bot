@@ -1,5 +1,5 @@
 # repl-hosted-discord-bot
-A discord bot for a spelling bee hosted on repl by taking advantage of repl's specific features.  
+A slapdash discord bot for a spelling bee hosted on repl by taking advantage of repl's specific features.  
   
 The discord bot simply deletes messages from a defined "Responses" channel where participants type in their answer.  
 These deleted messages are then reposted to a private channel only accessible by mods.  
