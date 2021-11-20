@@ -19,3 +19,7 @@ Run the code on repl.it and grab the URL for the webserver:
 Create a monitor on https://uptimerobot.com/ with the following settings(select any interval you're comfortable with):
 ![image](https://user-images.githubusercontent.com/60308157/114558445-4dd19c00-9c88-11eb-99d4-4fe8c1494498.png)
 The monitor will ping the webserver and keep it up indefinitely.
+
+
+## Avery Bott
+Avery bott is a practice bot to test discord bot dashboards
